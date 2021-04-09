@@ -1,0 +1,31 @@
+{
+  "name": "top-restaurant-",
+  "version": "1.0.0",
+  "description": "Restaurant page built mostly with js modules and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtavares21/TOP-Restaurant-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtavares21/TOP-Restaurant-/issues"
+  },
+  "homepage": "https://github.com/mtavares21/TOP-Restaurant-#readme",
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "sass": "^1.32.8",
+    "sass-loader": "^11.0.1",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "google-fonts-webpack-plugin": "^0.4.4"
+  }
+}
